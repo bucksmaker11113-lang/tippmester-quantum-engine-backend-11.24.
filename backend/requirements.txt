@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+
+numpy
+pandas
+requests
+python-dotenv
+pytesseract
+opencv-python
+beautifulsoup4
+openpyxl
+
+tensorflow
+torch
